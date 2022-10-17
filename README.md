@@ -2,6 +2,8 @@ The expense tracking app which I created while studying ReactJS.
 
 ![Picture](/public/pic1.PNG)
 
+![Picture2](/public/pic2.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
