@@ -1,6 +1,6 @@
 The expense tracking app which I created while studying ReactJS.
 
-![Picture] (/public/pic1.PNG)
+![Picture](/public/pic1.PNG)
 
 # Getting Started with Create React App
 
